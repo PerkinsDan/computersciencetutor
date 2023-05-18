@@ -1,10 +1,9 @@
-import Image from 'next/image'
 import Link from 'next/link'
 
 export default function Home() {
     return (
         <main className="flex min-h-screen flex-col items-center gap-12 p-12">
-            <h1 className='text-2xl'>Computer Science Tutor</h1>
+            <h1 className='text-2xl'>Exam Paper Vault</h1>
 
             <div className='max-w-lg w-full gap-4 flex flex-col'>
                 <h2 className='text-center font-bold text-lg'>Paper 1</h2>

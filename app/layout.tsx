@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Computer Science Tutor',
-  description: 'Revise GCSE/IGCSEs and A-levels! Past papers and solution banks.',
+  title: 'Exam Paper Vault',
+  description: 'All the exam papers you need! For GCSE & A Level Students.',
 }
 
 export default function RootLayout({
