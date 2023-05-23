@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function Page() {
     const links = [
-        {name: "AQA", href: "gcse/aqa"},
+        {name: "8520", href: "gcse/aqa/8520"},
     ]
 
     return (
